@@ -1,6 +1,6 @@
 /* Estilos generales */
 header {
-    background-color: #222222;
+    background-color: #222;
     color: #fff;
     padding: 20px;
 }
@@ -54,6 +54,7 @@ header {
     border: 1px solid #ccc;
     border-radius: 4px;
     width: 200px;
+    margin-right: 10px; /* Separación entre la barra de búsqueda y el botón Ingresar */
 }
 
 .contenedor-header form .boton-ingresar,
@@ -68,10 +69,6 @@ header {
 
 .contenedor-header form .boton-nuevo {
     margin-left: 10px; /* Añadido para separación entre los botones */
-}
-
-nav {
-    margin-top: 10px; /* Añadido para separación entre el menú y el header */
 }
 
 @media (max-width: 768px) {
