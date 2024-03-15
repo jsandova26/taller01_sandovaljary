@@ -1,6 +1,6 @@
 /* Estilos generales */
 header {
-    background-color: #222;
+    background-color: #ffff19;
     color: #fff;
     padding: 20px;
 }
@@ -14,7 +14,7 @@ header {
 .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #fff;
+    color: #040303;
     text-transform: uppercase;
 }
 
@@ -30,7 +30,7 @@ header {
 }
 
 .menu li a {
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 
